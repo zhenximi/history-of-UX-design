@@ -3,12 +3,1155 @@
         "kind": "timeline",
         "title": "History of User Experience Design",
         "description": "Humans have been making tools more efficient, more ergonomic, and more intuitive since we began designing stone tools over 2.5 million years ago.  Whats more, is that the very shape that these first Oldowan implements took deterministically influenced the very form ",
-        "items": [{
+        "items": [
+            {
                 "kind": "article",
-                "title": "",
-                ""
+                "title": ""
             },
             {}
+        ]
+    },
+    "references" : {
+        "kind" : "bookshelf",
+        "title" : "UX Books",
+        "description" : "A bookshelf for Books Specifically Writen for User Expierence Design",
+        "items" : [
+            {   
+                "kind" : "book",
+                "title" : "The Design of Everyday Things",
+                "author" : "Don Norman",
+                "discription" : "",
+                "links" : [{}], 
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+                "author" : "Steve Krug",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 5
+            },
+            {   
+                "kind" : "book",
+                "title" : "Thinking, Fast and Slow",
+                "author" : "Daniel Kahneman",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Leann UX: Applying Lean Principles to Improve User Experience",
+                "author" : "Jeff Gothelf",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Paradox of Choice: Why More Is Less",
+                "author" : "Barry Schwartz",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing Visual Interfaces: Communication Oriented Techniques",
+                "author" : "Kevin Mullet",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Sprint",
+                "author" : "Jake Knapp",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Rework",
+                "author" : "Jason Fried and David Heinemeier Hansson",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Creative Confidence",
+                "author" : "Tom Kelley and David Kelley",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",
+                "author" : "Tim Ferriss",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The War of Art: Break Through the Blocks and Win Your Inner Creative Battles",
+                "author" : "Steven Pressfield",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "100 Things Every Designer Needs to Know About People",
+                "author" : "Susan Weinschenk",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 4
+            },
+            {   
+                "kind" : "book",
+                "title" : "A Practical Guide to Information Architecture",
+                "author" : "Donna Spencer",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "A Project Guide To UX Design: For user Experience Designs in the Field or in the Making",
+                "author" : "Russ Unger & Carolyn Chandler",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "About Face 3: The Essentials of Interaction Design",
+                "author" : "Alan Cooper",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "Advanced Web Metrics with Google Analytics",
+                "author" : "Brian Clifton",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Card Sorting: Designing Usable Categories",
+                "author" : "Donna Spencer",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Communicating Design: Developing Web Site Documentation for Design and Planning",
+                "author" : "Dan M. Brown",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Communicating the User Expierence: A practical guide for creating useful UX documentation",
+                "author" : "Richard Caddick & Steve Cable",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Content Strategy for Mobile",
+                "author" : "Karen McGrane",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Contextual Design: Defining Customer-Centered Systems",
+                "author" : "Hugh and Beyer & Karen Holtzblatt",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Design for the Real World: Human Ecology and Social Change",
+                "author" : "Victor Papanek",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing for Interaction",
+                "author" : "Dan Saffer",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing for the Digital Age: How to Create Human-centered Products and Services",
+                "author" : "Kim Goodwin",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing Interactions",
+                "author" : "Bill Moggridge",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing Intranets: Creating Sites That Work",
+                "author" : "James Robertson",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing Web Interfaces: Principles and Patterns for Rich Interactions",
+                "author" : "Bill Scott",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "E-Commerce Usability: Tools and Techniques to Perfect the On-line Experience",
+                "author" : "David Travis",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "",
+                "author" : "",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Emotional Design: Why We Love (Or Hate) Everyday Things",
+                "author" : "Don Norman",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Envisioning Informatin",
+                "author" : "Edward Tufte",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Everyday UX",
+                "author" : "Luke Chambers & Matthew Magain",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Forms That Work",
+                "author" : "Caroline Jarret and Gerry Gaffney",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Gamestorming: A Playbook For Innovators, Rulebreakers, and Changemakers",
+                "author" : "Dave Gray, Sunni Brown and James Macanufo",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "Get Started in UX: the Complete Guide to Launching a Career in User Experience Design",
+                "author" : "Matthew Magain & Luk Chambers",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Handbook of Usability Testing; How to Plan, Design and Conduct Effective Tests",
+                "author" : "Jeffery Rubin",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Influence: The Psychology of Persuasion",
+                "author" : "Robert B. Cialdini",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Information Anxiety 2",
+                "author" : "Richard S Wurman",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Information Architecture for the World Wide Web",
+                "author" : "Peter Morville and Louis Rosenfeld",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "Interviewing Users: How to Uncover Compelling Insights",
+                "author" : "Steve Portigal",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Killer UX Design",
+                "author" : "Jodie Moule",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Kluge: The Haphazzard Evolution of the Human Mind",
+                "author" : "the Human Mind",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "",
+                "author" : "",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Letting Go of the Words: Writing Web Content That Works",
+                "author" : "Janice Redish",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics, 2nd Edition",
+                "author" : "Thomas Tullis & William Albert",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 4
+            },
+            {   
+                "kind" : "book",
+                "title" : "Mental Models: Aligning Design Strategy with Human Behaviour",
+                "author" : "Indi Young",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "Mind Hacks: Tips & Tools for Using Your Brain",
+                "author" : "Tom Stafford & Matt Webb",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Mobile First",
+                "author" : "Luke Wroblewski",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces",
+                "author" : "Carolyn Snyder",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Resonate: Present Visual Stories that Transoform Audiences",
+                "author" : "Nancy Duarte",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Responsive Web Design",
+                "author" : "Ethan Marcotte",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "Rocket Surgery Made Easy",
+                "author" : "Steve Krug",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences",
+                "author" : "Stephen P. Anderson",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "See What I Mean: How to use Comics to Communicate Ideas",
+                "author" : "Kevin Cheng",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Sexy Web Design",
+                "author" : "Elliot Jay Stocks",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Sketching User Experiences: Workbook",
+                "author" : "Saul Greenberg, Sheelagh Carpendale, Nicolai Margquardt and Bill Buxton",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Sketching User Experiences: Getting the Design Right and the Right Design",
+                "author" : "Bill Buxton",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "Sketchnotes 2011",
+                "author" : "Eva-Lotta Lamm",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Tapworthy: Designing Great iPhone Apps",
+                "author" : "Josh Clark",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Back of the Napkin",
+                "author" : "Dan Roam",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "",
+                "author" : "",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Design of Sites (2nd Ed.)",
+                "author" : "Jason I. Hong",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Doodle Revolution",
+                "author" : "Sunni Brown",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Elements of User Experience: User-Centered Design for the Web and Beyond",
+                "author" : "Jesse James Garrett",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Encyclopedia of Human-Computer Interaction",
+                "author" : "Mads Soegaard & Rikke Friis Dam",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Graphic Facilitartors Guide",
+                "author" : "Brandy Agerbeck",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Information: A History, a Theory, a Flood",
+                "author" : "James Gleick",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Inmates are Running the Asylum",
+                "author" : "Alan Cooper",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Lean Startup: How Constant Innovation Creates Radically Successful Businesses",
+                "author" : "Eric Ries",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Moderator's Survival Guide: Handling Common, Tricky and Sticky Situations in User Research",
+                "author" : "Donna Tedesco",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Mom Test: How to talk to customers and learn if your business is a good idea when everyone is lying to you.",
+                "author" : "Rob Fitzpatrick",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Non-Designer's Design Book",
+                "author" : "Robin Williams",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Persona Lifecycle: Keeping People in Mind Throughout Product Design",
+                "author" : "John Pruitt & Tamara Adlin",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Principles of Beautiful Web Design",
+                "author" : "Jason Beaird",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Shallows: How the Internet is changing thw way we read, think and remember",
+                "author" : "Nicholas Carr",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Sketchnote Handbook",
+                "author" : "Mike Rohde",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Usability Kit",
+                "author" : "Gerry Gaffney and Daniel Szuc",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The User Experience Team of One:  A Research and Design Survival Guide",
+                "author" : "Leah Buley",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 3
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Visual Display of Quantitative Information",
+                "author" : "Edward Tufte",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "The User is Always Right: A Practical Guide to Creating and Using Personas for the Web",
+                "author" : "Steve Mulder",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "There's Not an App for That: Mobile User Experience Design for Life",
+                "author" : "Simon Robinson, Gary Marsden and Matt Jones",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "UI is Communication: How to Design Intuitive, User Centered Interfaces by Focusing on Effective Communication",
+                "author" : "Everett N. McKay",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Undercover User Experience Design",
+                "author" : "Cennydd Bowles & James Box",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Usability Engineering",
+                "author" : "Jakob Nielsen",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "User Story Mapping: Discover the Whole Story, Build the Right Product",
+                "author" : "",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Web Analytics: An Hour A Day",
+                "author" : "",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Web Form Design: Filling in the Blanks",
+                "author" : "Luke Wroblewski",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "What Every Intranet Team Should Know",
+                "author" : "James Robertson",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Subject to Change: Creating Great Products & Services for an Uncertain World",
+                "author" : "Peter Merholz, Todd Wilkens, Brandon Schauer, David Verba",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing Together: The collaboration and conflict management handbook for creative professionals",
+                "author" : "Dan M. Brown",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Shape of Design",
+                "author" : "Frank Chimero",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Laws of Simplicity: Design, Technology, Business, Life",
+                "author" : "John Maeda",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Well Designed: How to Use Empathy to Create Products People Love",
+                "author" : "Jon Kolko",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Thoughts on Interaction Design",
+                "author" : "Jon Kolko",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Manage Your Day-to-Day: Build Your Ruitine, Find Your Focus, and Sharpen Your Creative Mind",
+                "author" : "Jocelyn K. Glei",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Linchpin: Are You Indispensable?",
+                "author" : "Seth Godin",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing Interfaces: Patterns for Effective Interaction Design",
+                "author" : "Jennifer Tidwell",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Practical Empath: For Collaboration and Creativity in Your Work",
+                "author" : "Indi Young",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Mobile Frontier: A Guide for Designing Mobile Experiences",
+                "author" : "Rachel Hinman",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Design is the Problem: The Future of Design must be Sustainable",
+                "author" : "Nathan Shedroff",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Prototyping: A Practitioner's Guide",
+                "author" : "Todd Zaki Warfel",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Making Meaning: How Successful Business Deliver Meaningful Customer Experiences",
+                "author" : "Steve Diller, Nathan Shedroff, Darrel Rhea",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Content Strategy for the Web",
+                "author" : "Kristina Halvorson, Melissa Rach",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Just Enough Research",
+                "author" : "Erika Hall",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Design is a Job",
+                "author" : "Mike Monteiro",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing for Emotion",
+                "author" : "Aaron Walter",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Creative Workshop: 80 Challenges to Sharpen Your Design Skills",
+                "author" : "David Sherwin",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing the Obvious: A Common Sense Approach to Web Application Design",
+                "author" : "Robert Hoekman Jr",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing the Moment: Web Interface Design Concepts in Action",
+                "author" : "Robert Hoekman Jr",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing for the Social Web",
+                "author" : "Joshua Porter",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Product Design for the Web: Principles of Designing and Releasing Web Products",
+                "author" : "Randy Hunt",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing the User Interface: Strategies for Effective Human-Computer Interaction",
+                "author" : "Ben Shneiderman, Catherine Plaisant, Maxine Cohen, Steven Jacobs",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "This is Service Design Thinking: Basics, Tools, Cases",
+                "author" : "Marc Stickdorn, Jakob Schneider",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Metaskills: 5 Talents for the Robotic Age",
+                "author" : "Marty Neumeier",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Brand Gap: How to Bridge the Distance Between Business Strategy and Design",
+                "author" : "Marty Neumeier",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Getting Real",
+                "author" : "Jason Fried, David Heinemeier Hanssond",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Rework",
+                "author" : "Jason Fried, David Heinemeier Hansson",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Glut: Mastering Information through the Ages",
+                "author" : "Alex Wright",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Humane Interface: New Directions for Designing Interactive Systems",
+                "author" : "Jef Raskin",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing with Web Standards,",
+                "author" : "Jeffrey Zeldman, Ethan Marcotte",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Simple and Usable Web, Mobile, and Interaction Design",
+                "author" : "Giles Colborne",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Search Patterns: Design for Discovery",
+                "author" : "Peter Morville, Jeffery Callender",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Neuro Web Design: What Makes Them Click?",
+                "author" : "Susan Weinschenk",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "A Web For Everyone",
+                "author" : "Sarah Horton, Whitney Quesenbery",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "How to Make Sense of Any Mess",
+                "author" : "Abby Covert",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Radical Focus: Achieving Your Most Improtant Goals with Objectivs and Key Results",
+                "author" : "Christina Wodtke",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Org Design for Design Orgs: Building and Managing In-House Design Teams",
+                "author" : "Peter Merholz, Kristin Skinner",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Smashing UX Design: Foundations for Designing ONline User Experiences",
+                "author" : "Jesmond ALlen and James Chudley",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 2
+            },
+            {   
+                "kind" : "book",
+                "title" : "Usable Usability",
+                "author" : "Eric Reiss",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Pervasive Information Architecture: Designing Cross-Channel User Experiences",
+                "author" : "Andrea Resmini & Luca Rosati",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers",
+                "author" : "Alexander Osterwalder, Tves Pigneur, Alan Smith",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Building Design Strategy: Using Design to Achieve Key Business Objectives",
+                "author" : "Thomas Lockwood, Thomas Walton",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The Connected Company",
+                "author" : "Dave Gray",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing Services with Innovative Methods",
+                "author" : "Satu Miettinen",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Intertwingled: Information Changes Everything",
+                "author" : "Peter Morville",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Quantifying the User Experience: Practical Statistics for User Research",
+                "author" : "Jeff Sauro, James R. Lewis",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "",
+                "author" : "",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Mobile Usability",
+                "author" : "Jakob Nielsen, Raluca Budiu",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Mobile Interaction Design",
+                "author" : "Matt Jones, Gary Marsden",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Designing the Mobile User Experience",
+                "author" : "Barbara Ballard",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "The UX Book: Process and Guidelines for Ensuring a Quality User Experience",
+                "author" : "Rex Hartson, Pardha Pyla",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            },
+            {   
+                "kind" : "book",
+                "title" : "Microinteractions: Designing with Details",
+                "author" : "Dan Saffer",
+                "discription" : "",
+                "links" : [{}],
+                "ikes" : 1
+            }
         ]
     }
 }
